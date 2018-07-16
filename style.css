@@ -1,0 +1,48 @@
+body {
+    color:navy;
+    
+    font-family: Verdana, sans-serif, fantasy;
+    
+    background: url(background.jpeg);
+    
+    font-size: 20px;
+    
+    width: 50%;
+    
+    margin:auto;
+   
+}
+
+img {
+    width: 70%;
+    
+    border: 5px dotted  navy;
+    
+    border-radius: 20%;
+    
+    display:block;
+    
+    margin:auto;
+    
+    
+}
+
+h1{ 
+    border-bottom: 5px solid navy;
+    
+    text-align: center;
+    
+    background-color: red
+}
+
+.paragraf1{
+    
+    
+    text-align: center;
+}
+
+
+.öneri{
+    
+    color:deepskyblue
+}
